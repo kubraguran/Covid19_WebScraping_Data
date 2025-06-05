@@ -24,7 +24,7 @@ All results are visualized using bar plots where applicable.
 
 1. **Clone the repository**
 
-git clone https://github.com/yourusername/covid-analysis.git
+git clone [https://github.com/yourusername/covid-analysis.git](https://github.com/kubraguran/Covid19_WebScraping_Data.git)
 cd covid-analysis
 
 
