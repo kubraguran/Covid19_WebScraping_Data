@@ -28,8 +28,7 @@ git clone [https://github.com/yourusername/covid-analysis.git](https://github.co
 cd covid-analysis
 
 
-2. 
-pip install pandas matplotlib sqlalchemy
+2.  pip install pandas matplotlib sqlalchemy
 
 
 
